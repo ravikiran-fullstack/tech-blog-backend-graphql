@@ -21,3 +21,14 @@ a like can belong to one blogpost
 but a blogpost can have many likes
 so blogpost-like => one to many
 
+
+
+
+
+
+# things to revise
+ 1) Third Normal forms
+ 2) Entity Relationship Diagram
+ 3) Database cardinality
+ 4) Advanced Database
+
