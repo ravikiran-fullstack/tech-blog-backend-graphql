@@ -1,0 +1,19 @@
+ERD - Entity Relation Diagram
+
+a role can have many permissions
+a permission can belong to many roles
+therefore its many to many - so we can have a roles_permissions table
+
+
+a user may have one role 
+but a role can belong to many roles
+therefore user-role => one to many
+
+a blogpost can have only one author
+but a user can have many blogposts
+therefore blogpost-user => one to many
+
+a comment can belong to one blogpost
+but a blogpost can have many comments
+therefore comment-blogpost => one to many
+
