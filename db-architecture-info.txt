@@ -17,3 +17,7 @@ a comment can belong to one blogpost
 but a blogpost can have many comments
 therefore comment-blogpost => one to many
 
+a like can belong to one blogpost
+but a blogpost can have many likes
+so blogpost-like => one to many
+
