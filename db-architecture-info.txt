@@ -23,12 +23,16 @@ so blogpost-like => one to many
 
 
 
-
-
-
 # things to revise
  1) Third Normal forms
  2) Entity Relationship Diagram
  3) Database cardinality
  4) Advanced Database
 
+# Installed mysql workbench, shell
+    # added to windows path
+    # tested using cmd
+    # created a database 
+    ## ran "node ./database/actions/db-connect.js" command and it is connecting to the mysql database
+
+    ### Need to refresh mysql fundamentals and concepts a bit before moving on
